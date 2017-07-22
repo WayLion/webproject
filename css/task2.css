@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#headofpage nav {
+    background: #333333;
+    width: 100%;
+    padding: 0;
+}
+
+#headofpage nav ul {
+    position: relative;
+    text-align: right;
+    color: white;
+}
+
+
+body {
+    width: 100%;
+}
+
+div {
+    margin: 10px;
+}
+
+#top {
+    background-color: black;
+    opacity: 0.5;
+    color: aliceblue;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 0px;
+    position: fixed;
+    top: 0px;
+
+}
+
+#top a {
+    color: blueviolet;
+    right: 0px;
+}
+
+#top span {
+    width: 50%;
+}
+
+#table table tr {
+    width: 33.33%;
+}
+
+#bottom {
+    width: 100%;
+    text-align: center;
+}
+
